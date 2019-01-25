@@ -484,6 +484,15 @@ input:-webkit-autofill:focus {
     transform: translateX(-50%)
 }
 
+.white-body {
+    background: rgba(254, 254, 254, 0.5);
+    font-weight: bold;
+}
+
+.red{
+    color: red;
+}
+
 /**
 *Caption-slider
 **/
