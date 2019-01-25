@@ -177,7 +177,7 @@ input:-webkit-autofill:focus {
 }
 
 .arrow:hover {
-    color: #8a6a24;
+    color: #c31f33;
     background-color: #fcd98f;
 }
 
@@ -188,17 +188,17 @@ input:-webkit-autofill:focus {
 .overlay:before,
 .sky-bg {
     background: #ffffff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#8a6a24));
-    background: linear-gradient(to bottom, #fcd98f 0%, #8a6a24 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75cbe7', endColorstr='#8a6a24', GradientType=0);
+    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#c31f33));
+    background: linear-gradient(to bottom, #fcd98f 0%, #c31f33 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75cbe7', endColorstr='#c31f33', GradientType=0);
     color: #ffffff;
 }
 
 #feature-page{
     background: #ffffff;
-    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#8a6a24));
-    background: linear-gradient(to bottom, #fcd98f 0%, #8a6a24 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcd98f', endColorstr='#8a6a24', GradientType=0);
+    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#c31f33));
+    background: linear-gradient(to bottom, #fcd98f 0%, #c31f33 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcd98f', endColorstr='#c31f33', GradientType=0);
 }
 
 .gray-bg {
@@ -214,24 +214,24 @@ input:-webkit-autofill:focus {
     padding: 8px 30px;
     border-radius: 50px;
     color: #ffffff;
-    background-color: #8a6a24;
+    background-color: #c31f33;
     -webkit-transition: 0.3s;
     transition: 0.3s;
     border: none;
     -webkit-box-shadow: 2px 5px 20px -5px rgba(0, 0, 0, 0.1);
     box-shadow: 2px 5px 20px -5px rgba(0, 0, 0, 0.1);
-    border: #8a6a24 1px solid;
+    border: #c31f33 1px solid;
 }
 
 .button.white,
 .button:hover {
     background-color: #fcd98f;
-    color: #8a6a24;
-    border: #8a6a24 1px solid;
+    color: #c31f33;
+    border: #c31f33 1px solid;
 }
 
 .button.white:hover {
-    background-color: #8a6a24;
+    background-color: #c31f33;
     color: #ffffff;
 }
 
@@ -368,7 +368,7 @@ input:-webkit-autofill:focus {
 }
 
 .mainmenu-area:hover {
-    background-color: #8a6a24;
+    background-color: #c31f33;
 }
 
 .mainmenu-area:hover a{
@@ -381,21 +381,21 @@ input:-webkit-autofill:focus {
 }
 
 .mainmenu-area.affix {
-    background-color: #8a6a24;
+    background-color: #c31f33;
 }
 .mainmenu-area .logo {
-    margin-top: 22px;
-    margin-bottom: 18px;
+    margin-top: 3px;
+    margin-bottom: 0px;
     width: 74px;
-    height: 37px;
+    height: 72px;
     background-image: url('images/logo-pyc2.png');
     background-size: cover;
 } 
 .mainmenu-area.affix .logo, .mainmenu-area:hover .logo {
-    margin-top: 22px;
-    margin-bottom: 18px;
-    width: 74px;
-    height: 37px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    width: 72px;
+    height: 72px;
     background-image: url('images/logo-pyc.png');
     background-size: cover;
 }
@@ -761,7 +761,7 @@ input:-webkit-autofill:focus {
     top: 20px;
     width: 36px;
     height: 36px;
-    background: #8a6a24;
+    background: #c31f33;
     border-radius: 50%;
     -webkit-transition: 0.3s;
     transition: 0.3s;
@@ -837,7 +837,7 @@ input:-webkit-autofill:focus {
 .footer-area {
     padding-top: 50px;
     z-index: 1;
-    color: #8a6a24;
+    color: #c31f33;
 }
 
 .footer-top {
@@ -928,9 +928,9 @@ preloader
     width: 100%;
     height: 100%;
     background: #fcd98f;
-    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#8a6a24));
-    background: linear-gradient(to bottom, #fcd98f 0%, #8a6a24 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcd98f', endColorstr='#8a6a24', GradientType=0);
+    background: -webkit-gradient(linear, left top, left bottom, from(#fcd98f), to(#c31f33));
+    background: linear-gradient(to bottom, #fcd98f 0%, #c31f33 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcd98f', endColorstr='#c31f33', GradientType=0);
     z-index: 99999999999;
 }
 
