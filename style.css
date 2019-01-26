@@ -493,6 +493,9 @@ input:-webkit-autofill:focus {
     color: red;
 }
 
+.bold{
+    font-weight: bold;
+}
 /**
 *Caption-slider
 **/
