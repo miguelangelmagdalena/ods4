@@ -957,6 +957,10 @@ input:-webkit-autofill:focus {
     margin-left: -35px;
 }
 
+.logo {
+    max-width: 125px;
+}
+
 /***
 *Contact-form
 ****/
