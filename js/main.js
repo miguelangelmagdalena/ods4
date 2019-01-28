@@ -111,7 +111,7 @@
 
     $('#accordion .panel-title a').prepend('<span></span>');
 
-
+    $('#accordion2 .panel-title a').prepend('<span></span>');
 
 
 
