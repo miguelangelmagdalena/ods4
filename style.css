@@ -423,6 +423,12 @@ input:-webkit-autofill:focus {
     color: #ffffff;
 }
 
+.box400 {
+    width: 400px
+}
+.margin-left{
+    margin-left: 78px;
+}
 
 /**
 *Header-area
