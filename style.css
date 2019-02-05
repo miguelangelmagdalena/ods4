@@ -1154,7 +1154,7 @@ MODAL center of screen
     }
   }
 
-  @media screen and (max-width: 767px) { 
+  @media screen and (min-width: 480px) { 
     .modal:before {
       display: inline-block;
       vertical-align: middle;
@@ -1162,6 +1162,7 @@ MODAL center of screen
       height: 100%;
     }
   }
+  
   
   .modal-dialog {
     display: inline-block;
@@ -1198,4 +1199,8 @@ MODAL center of screen
     padding-right:26px;
     padding-bottom:26px;
     padding-left:26px;
+  }
+
+  .center-text{
+      text-align: center;
   }
