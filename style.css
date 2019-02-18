@@ -402,6 +402,21 @@ input:-webkit-autofill:focus {
 .mainmenu-area.affix {
     background-color: #c31f33;
 }
+.mainmenu-area2 .logo{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    height: inherit;
+    margin-top: 8px;
+    padding-left: 0;
+
+    margin-top: 3px;
+    margin-bottom: 0px;
+    width: 48px;
+    height: 47px;
+    background-image: url('images/logo-pyc.png');
+    background-size: cover;
+}
+
 .mainmenu-area .logo {
     margin-top: 3px;
     margin-bottom: 0px;
