@@ -113,7 +113,9 @@
 
     $('#accordion2 .panel-title a').prepend('<span></span>');
 
+    $('#accordion3 .panel-title a').prepend('<span></span>');
 
+    $('#accordion4 .panel-title a').prepend('<span></span>');
 
 
     //Function to animate slider captions 

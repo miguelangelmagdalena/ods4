@@ -895,6 +895,115 @@ input:-webkit-autofill:focus {
     transform: translate(-50%) rotate(0deg);
 }
 
+/**
+*Accordion3
+**/
+
+#accordion3 .panel {
+    background: none;
+}
+
+#accordion3 .panel .panel-title {
+    padding: 30px 0 30px 60px;
+    position: relative;
+}
+
+#accordion3 .panel .panel-collapse {
+    padding-left: 60px;
+}
+
+#accordion3 .panel .panel-title a span:after,
+#accordion3 .panel .panel-title a span:before,
+#accordion3 .panel .panel-title a span {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 20px;
+    width: 36px;
+    height: 36px;
+    background: #c31f33;
+    border-radius: 50%;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+
+#accordion3 .panel .panel-title a span:before,
+#accordion3 .panel .panel-title a span:after {
+    width: 10px;
+    height: 1px;
+    background-color: #ffffff;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+}
+
+#accordion3 .panel .panel-title a span:before {
+    -webkit-transform: translate(-50%) rotate(90deg);
+    transform: translate(-50%) rotate(90deg);
+}
+
+#accordion3 .panel .panel-title a[aria-expanded="true"] span:before {
+    -webkit-transform: translate(-50%) rotate(0deg);
+    transform: translate(-50%) rotate(0deg);
+}
+
+/**
+*Accordion4
+**/
+
+#accordion4 .panel {
+    background: none;
+}
+
+#accordion4 .panel .panel-title {
+    padding: 30px 0 30px 60px;
+    position: relative;
+}
+
+#accordion4 .panel .panel-collapse {
+    padding-left: 60px;
+}
+
+#accordion4 .panel .panel-title a span:after,
+#accordion4 .panel .panel-title a span:before,
+#accordion4 .panel .panel-title a span {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 20px;
+    width: 36px;
+    height: 36px;
+    background: #c31f33;
+    border-radius: 50%;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+
+
+#accordion4 .panel .panel-title a span:before,
+#accordion4 .panel .panel-title a span:after {
+    width: 10px;
+    height: 1px;
+    background-color: #ffffff;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+}
+
+#accordion4 .panel .panel-title a span:before {
+    -webkit-transform: translate(-50%) rotate(90deg);
+    transform: translate(-50%) rotate(90deg);
+}
+
+#accordion4 .panel .panel-title a[aria-expanded="true"] span:before {
+    -webkit-transform: translate(-50%) rotate(0deg);
+    transform: translate(-50%) rotate(0deg);
+}
+
+
 /****
 *Blog-area
 *****/
