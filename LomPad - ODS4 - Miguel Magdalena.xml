@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general><title><string language="es">Objeto de Aprendizaje de Contenido Abierto sobre el Objetivo de Desarrollo Sostenible 4: Educación de Calidad</string>
+</title>
+<language>es</language>
+<description><string language="es">Los ODS son un tema muy importante como transcendental en los años porvenir para el desarrollo de los países y la sostenibilidad/sustentabilidad de sus ciudadanos y del planeta, es por ello responsabilidad de los ciudadanos de cada país comprometerse y poder dar el máximo empeño con el fin de llevar a cabo este rumbo marcado para poder cumplir estos objetivos.
+En este sentido, el presente OACA busca aportar un proceso de concienciación dirigido especialmente a la comunidad universitaria</string>
+</description>
+<keyword><string language="es">ODS, Educación de Calidad, Sostenibilidad</string>
+</keyword>
+<coverage><string language="es">Educación, Cultura</string>
+</coverage>
+<structure><source>LOMv1.0</source>
+<value>linear</value></structure>
+</general>
+<lifeCycle><version><string language="es">Versión 1.0</string>
+</version>
+<status><source>LOMv1.0</source>
+<value>final</value></status>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>author</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Magdalena Ybarra;Miguel Ángel;;;
+FN:Miguel Ángel Magdalena Ybarra
+EMAIL;TYPE=INTERNET:miguelangelmagdalena@gmail.com
+ORG:Universidad Central de Venezuela
+END:VCARD]]></entity>
+<date><dateTime>2019-02-27</dateTime>
+</date>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>author</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Palomino;Hector;;;
+FN:Hector Palomino
+ORG:Universidad Central de Venezuela
+END:VCARD]]></entity>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>educational validator</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Hernández;Yosly;;;
+FN:Yosly Hernández
+ORG:Universidad Central de Venezuela
+END:VCARD]]></entity>
+<date><dateTime>2019-02-27</dateTime>
+</date>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>subject matter expert</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Hernández;Yosly;;;
+FN:Yosly Hernández
+ORG:Universidad Central de Venezuela
+END:VCARD]]></entity>
+<date><dateTime>2019-02-27</dateTime>
+</date>
+</contribute>
+</lifeCycle>
+<metaMetadata><contribute>
+<role><source>LOMv1.0</source>
+<value>creator</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Magdalena Ybarra;Miguel Ángel;;;
+FN:Miguel Ángel Magdalena Ybarra
+EMAIL;TYPE=INTERNET:miguelangelmagdalena@gmail.com
+ORG:Universidad Central de Venezuela
+END:VCARD]]></entity>
+<date><dateTime>2019-02-27</dateTime>
+</date>
+</contribute>
+<language>es</language>
+</metaMetadata>
+<technical><format>text/html</format>
+</technical>
+<educational><interactivityType><source>LOMv1.0</source>
+<value>mixed</value></interactivityType>
+<learningResourceType><source>LOMv1.0</source>
+<value>problem statement</value></learningResourceType>
+<interactivityLevel><source>LOMv1.0</source>
+<value>medium</value></interactivityLevel>
+<semanticDensity><source>LOMv1.0</source>
+<value>medium</value></semanticDensity>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>learner</value></intendedEndUserRole>
+<context><source>LOMv1.0</source>
+<value>higher education</value></context>
+<typicalAgeRange><string language="es">Mayor 16 años</string>
+</typicalAgeRange>
+<difficulty><source>LOMv1.0</source>
+<value>medium</value></difficulty>
+<language>es</language>
+</educational>
+<rights><cost><source>LOMv1.0</source>
+<value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source>
+<value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="es">licencia Creative Commons de tipo Atribución-No Comercial-Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0). La cual permite compartir, copiar, redistribuir el material en cualquier medio o formato. Así como adaptar, remezclar, transformar y construir a partir del material.</string>
+</description>
+</rights>
+<classification><purpose><source>LOMv1.0</source>
+<value>educational objective</value></purpose>
+<keyword><string language="es">ODS, Educación de Calidad, Sostenibilidad</string>
+</keyword>
+</classification>
+</lom>
